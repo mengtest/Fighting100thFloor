@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Hero1.js">
+    <Files>
+      <File FileName="Assets/Scripts/Hero1.js" Line="74" Column="58" />
+      <File FileName="Assets/Scripts/end/end.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/bg.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MasterMove.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CreateMaster.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CreateGoods.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CreateBlocks.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ButtonEvents.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/hello/hello.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
