@@ -46,6 +46,7 @@
 解决方法：把gif每一帧都导出来，生成一个图片序列，然后倒入unity ，全选图片序列，并且拖入scene场景中，unity会自动生成动画资源。
 #####5.想让主角有不同的运动状态，但是不知道怎么实现。
 解决方法：通过上网查找，发现可以给主角添加animator组件，并在该组件中选择一个动画控制器，双击动画控制器，可以看到有任何状态，和默认状态，可以右击空白添加一个跑的状态和攻击的状态。并且设置两个bool类型的变量，来控制状态的转换。只要在脚本中改变该bool变量就能达到状态的转换。
+
 ![Q5_1](https://raw.githubusercontent.com/jacobba/Fighting100thFloor/master/Q&A_imgs/q1.png)
 ![Q5_2](https://raw.githubusercontent.com/jacobba/Fighting100thFloor/master/Q&A_imgs/q2.png)
 #####6.不同场景之间传递参数，来达到选择不同地图就加载不通地图和声音资源。
@@ -59,6 +60,7 @@
 
 #####7.背景循环移问题
 解决方法：通过两张背景图片循环播放来达到循环的效果。给两张背景添加向上移动的脚本，当一个背景向上移动出视野范围时，重新设置位置，让他返回屏幕底部，接替屏幕中背景移动。
+
 ![背景循环1](https://raw.githubusercontent.com/jacobba/Fighting100thFloor/master/Q&A_imgs/q3.png)
 ![背景循环2](https://raw.githubusercontent.com/jacobba/Fighting100thFloor/master/Q&A_imgs/q4.png)
 
